@@ -59,6 +59,12 @@
   ],
   "nxCloudId": "6a104f94c6f536da6a8ee2a5",
   "analytics": false,
+  "tui": {
+    "enabled": false
+  },
+  "cli": {
+    "defaultOutputStyle": "stream"
+  },
   "generators": {
     "@nx/react": {
       "application": {
@@ -73,7 +79,8 @@
       "library": {
         "style": "css",
         "linter": "none"
-      }
+
     }
   }
+}
 }
