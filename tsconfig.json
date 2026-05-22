@@ -8,12 +8,6 @@
     },
     {
       "path": "./packages/api"
-    },
-    {
-      "path": "./packages/web-e2e"
-    },
-    {
-      "path": "./packages/web"
     }
   ]
 }
